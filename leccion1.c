@@ -1,3 +1,5 @@
+//Funciones básicas para crear una ventana en GTK
+
 #include <gtk/gtk.h>
 
 
